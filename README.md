@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a three-time graduate of Western Governors University and hold a B.S. in Computer Science, an MBA, and an M.S. in Cybersecurity. I also hold a B.A. in Spanish from California State University, Chico and a diploma from The Potomac School in McLean, VA. Addiionally, I have completed coursework towards an MCS (Master of Computer Science) at Arizona State University.
+I am a three-time graduate of Western Governors University and hold a B.S. in Computer Science, an MBA, and an M.S. in Cybersecurity. I also hold a B.A. in Spanish from California State University, Chico and a diploma from The Potomac School in McLean, VA. Additionally, I have completed coursework towards an MCS (Master of Computer Science) at Arizona State University.
 
 I enjoy learning and exploring new technologies and am self-taught in many things. I am interested in fields related to software engineering, cybersecurity, data science, artificial intelligence, video games, general app development, and relevant studies, such as quantum computing.
 
